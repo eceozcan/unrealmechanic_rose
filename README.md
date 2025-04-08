@@ -1,5 +1,6 @@
 # unrealmechanic_rose
-my dev project
+The AI-focused gameplay mechanics scene I developed for the game: Rose
+website: https://rosevideogame.com/ 
 
 ## Languages Used
 - C++
